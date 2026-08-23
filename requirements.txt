@@ -1,1 +1,7 @@
-
+streamlit
+gspread
+gspread-dataframe
+pandas
+numpy
+scipy
+streamlit-autorefresh
